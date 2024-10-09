@@ -1,0 +1,27 @@
+.main-content {
+  /* border: 1px solid #000; */
+
+  width: 569px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 40px;
+}
+
+.content-tab {
+  height: 88px;
+  width: 100%;
+  text-align: left;
+  padding-top: 32px;
+  box-sizing: border-box;
+}
+
+.content-tab img {
+  width: 25px;
+  height: 25px;
+  margin-right: 4px;
+}
+
+.content-tab span {
+  font-size: var(--font-size-xxlarge);
+  font-weight: bold;
+}
